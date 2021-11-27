@@ -18,7 +18,7 @@ subtitle: Expertise on a scale from 1 (Beginner) to 10 (Expert)
 feature:
 - description: 10
   icon: square-root-alt
-  icon_pack: fab
+  icon_pack: fas
   name: Statistics
 - description: 9
   icon: r-project
@@ -26,12 +26,20 @@ feature:
   name: R Programming
 - description: 9
   icon: chart-area
-  icon_pack: fab
+  icon_pack: fas
   name: Data Vizualization
-- description: 4
+- description: 8
+  icon: mobile-alt
+  icon_pack: fab
+  name: Digital Data Collection
+- description: 8
+  icon: database
+  icon_pack: fab
+  name: Database Management & Cleaning
+- description: 5
   icon: python
   icon_pack: fab
-  name: Python
+  name: Python & SQL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
