@@ -7,4 +7,6 @@ title: ""
 active: true
 author: admin
 ---
-This is the section about me....
+* Brains
+* Psychology
+* Statistics
