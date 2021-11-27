@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 title: Dissertation
 summary: Using Smartphone-Based Digital Phenotyping to Characterize Prenatal Maternal Mental Health
