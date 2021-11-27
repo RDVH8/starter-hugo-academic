@@ -5,9 +5,11 @@ avatar_filename: null
 bio: ""
 interests: []
 social:
-  - icon: envelope
+  - display:
+      header: false
+    icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: Email
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RDVH_
