@@ -9,7 +9,7 @@ social:
       header: false
     icon: envelope
     icon_pack: fas
-    link: rdhenry8@gmail.com
+    link: mailto:rdhenry8@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RDVH_
