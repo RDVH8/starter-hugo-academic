@@ -20,6 +20,7 @@ image:
   caption: ""
   focal_point: Smart
   filename: featured.png
+  preview_only: true
 url_code: ""
 ---
 <!--\[if gte mso 9]><xml>
