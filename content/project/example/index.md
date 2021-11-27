@@ -10,12 +10,8 @@ url_slides: ""
 subtitle: Examining daily life markers of emotion dysregulation in pregnancy
   through smartphone-based digital phenotyping.
 tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - Digital<li>Data<li>Collection
+links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
