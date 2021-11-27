@@ -10,24 +10,28 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: Expertise on a scale from 1 (Beginner) to 10 (Expert)
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: 10
+  icon: sigma
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 9
+  icon: r-project
+  icon_pack: fab
+  name: R Programming
+- description: 9
+  icon: camera-bar
   icon_pack: fas
-  name: Photography
+  name: Data Vizualization
+- description: 4
+  icon: python
+  icon_pack: fas
+  name: Pyton
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
