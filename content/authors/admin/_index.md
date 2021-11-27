@@ -2,11 +2,8 @@
 title: Robert Vlisides-Henry
 role: Doctoral Candidate, Psychology
 avatar_filename: null
-bio: "I am a Psychology PhD student (Doctoral Candidate) working with Dr. Sheila
-  Crowell and Dr. Elisabeth Conradt at the University of Utah. I am hoping to
-  defend my dissertation in 2022. "
-interests:
-  - Brains
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,6 +38,14 @@ email: rdhenry8@gmail.com
 superuser: true
 highlight_name: true
 ---
+I am a Psychology PhD student (Doctoral Candidate) working with Dr. Sheila Crowell and Dr. Elisabeth Conradt at the University of Utah. I am planning to defend my dissertation in 2022.
+
 My research focuses on the lifespan impact of emotion dysregulation on risk for psychopathology. As a methodologist, I am especially interested in the use of innovative and rigorous approaches to measuring emotion dysregulation and stress across lifespan transitions. The perinatal period has been my primary focus during graduate school.
 
+After graduating, I plan to pursue a career as a statistical analyst/statistician outside of academia. I have developed a number of advanced skills in quantitative research methods, including longitudinal data analysis, hierarchical linear and nonlinear models, factor analysis, dynamic structural equation modeling, power analysis, and rigorous approaches missing data.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+or
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
