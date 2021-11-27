@@ -16,7 +16,7 @@ tags:
   - Pregnancy
 links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
