@@ -1,10 +1,10 @@
 ---
 type: widget_page
-widget: zeta
-widget_id: zeta
+widget: poll
+widget_id: icon
 headless: true
 weight: 10
 design:
   background:
-    image: zeta.png
+    image: ""
 ---
