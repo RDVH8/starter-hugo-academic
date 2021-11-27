@@ -1,6 +1,7 @@
 ---
 title: Robert Vlisides-Henry
-role: Professor of Artificial Intelligence
+role: Doctoral Candidate, Psychology, University of Utah
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
