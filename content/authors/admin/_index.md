@@ -4,7 +4,7 @@ role: Doctoral Candidate, Psychology
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - <li>Emotion Dysregulation</li><li>Longitudinal</li>Data</li>Analysis
+  - <li>Emotion Dysregulation</li><li>Longitudinal Data Analysis</li>
 social:
   - display:
       header: false
