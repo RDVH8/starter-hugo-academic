@@ -1,7 +1,10 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: zeta
+widget_id: zeta
 headless: true
+weight: 10
+design:
+  background:
+    image: zeta.png
 ---
