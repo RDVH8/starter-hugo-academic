@@ -2,7 +2,8 @@
 slides: example
 url_pdf: ""
 title: Dissertation
-summary: An example of using the in-built project page.
+summary: Examining daily life markers of emotion dysregulation in pregnancy
+  through smartphone-based digital phenotyping.
 url_video: ""
 date: 2021-11-27T20:09:29.959Z
 external_link: ""
