@@ -1,6 +1,6 @@
 ---
 title: Robert Vlisides-Henry
-role: Doctoral Candidate, Psychology, University of Utah
+role: Doctoral Candidate, Psychology
 avatar_filename: null
 bio: "I am a Psychology PhD student (Doctoral Candidate) working with Dr. Sheila
   Crowell and Dr. Elisabeth Conradt at the University of Utah. I am hoping to
