@@ -2,13 +2,12 @@
 slides: example
 url_pdf: ""
 title: Dissertation
-summary: An example of using the in-built project page.
+summary: Using Smartphone-Based Digital Phenotyping to Characterize Prenatal Maternal Mental Health
 url_video: ""
 date: 2021-11-27T20:09:29.959Z
 external_link: ""
 url_slides: ""
-subtitle: Examining daily life markers of emotion dysregulation in pregnancy
-  through smartphone-based digital phenotyping.
+subtitle:
 tags:
   - Digital Data Collection
   - Psychometrics
