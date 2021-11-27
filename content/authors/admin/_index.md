@@ -1,5 +1,5 @@
 ---
-title: Robert Vlisides-Henry
+title: Robert D. Vlisides-Henry
 role: Doctoral Candidate, Psychology
 avatar_filename: null
 bio: ""
