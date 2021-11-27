@@ -18,20 +18,20 @@ subtitle: Expertise on a scale from 1 (Beginner) to 10 (Expert)
 feature:
 - description: 10
   icon: sigma
-  icon_pack: fas
+  icon_pack: fab
   name: Statistics
 - description: 9
   icon: r-project
   icon_pack: fab
   name: R Programming
 - description: 9
-  icon: camera-bar
-  icon_pack: fas
+  icon: chart-bar
+  icon_pack: fab
   name: Data Vizualization
 - description: 4
   icon: python
-  icon_pack: fas
-  name: Pyton
+  icon_pack: fab
+  name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
