@@ -10,9 +10,9 @@ url_slides: ""
 subtitle: Examining daily life markers of emotion dysregulation in pregnancy
   through smartphone-based digital phenotyping.
 tags:
-  - '["Digital Data Collection"'
-  - '"Psychometrics"'
-  - '"R"]'
+  - Digital Data Collection
+  - Psychometrics
+  - R
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
