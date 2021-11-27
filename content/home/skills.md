@@ -17,7 +17,7 @@ subtitle: Expertise on a scale from 1 (Beginner) to 10 (Expert)
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 10
-  icon: sigma
+  icon: square-root-alt
   icon_pack: fab
   name: Statistics
 - description: 9
@@ -25,7 +25,7 @@ feature:
   icon_pack: fab
   name: R Programming
 - description: 9
-  icon: chart-bar
+  icon: chart-area
   icon_pack: fab
   name: Data Vizualization
 - description: 4
