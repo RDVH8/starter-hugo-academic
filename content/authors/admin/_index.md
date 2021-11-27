@@ -1,7 +1,7 @@
 ---
 title: Robert D. Vlisides-Henry
 role: Doctoral Candidate, Psychology
-avatar_filename: null
+avatar_filename: https://ucebt.com/media/k2/items/cache/b6d7090a321aeca0f529ab265a288b1b_M.jpg
 bio: ""
 interests: []
 social:
