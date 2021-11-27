@@ -46,6 +46,4 @@ I am a Psychology PhD student (Doctoral Candidate) working with Dr. Sheila Crowe
 
 My research focuses on the lifespan impact of emotion dysregulation on risk for psychopathology. As a methodologist, I am especially interested in the use of innovative and rigorous approaches to measuring emotion dysregulation and stress across lifespan transitions. The perinatal period has been my primary focus during graduate school.
 
-After graduating, I plan to pursue a career as a statistical analyst/statistician outside of academia. I have developed a number of advanced skills in quantitative research methods, including longitudinal data analysis, hierarchical linear and nonlinear models, factor analysis, dynamic structural equation modeling, power analysis, and rigorous approaches missing data.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
