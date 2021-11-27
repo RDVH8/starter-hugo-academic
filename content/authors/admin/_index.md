@@ -1,7 +1,7 @@
 ---
 title: Robert D. Vlisides-Henry
 role: Doctoral Candidate, Psychology
-avatar_filename: ""
+avatar_filename: null
 bio: ""
 interests: []
 social:
