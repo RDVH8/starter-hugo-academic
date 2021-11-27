@@ -46,6 +46,4 @@ My research focuses on the lifespan impact of emotion dysregulation on risk for 
 
 After graduating, I plan to pursue a career as a statistical analyst/statistician outside of academia. I have developed a number of advanced skills in quantitative research methods, including longitudinal data analysis, hierarchical linear and nonlinear models, factor analysis, dynamic structural equation modeling, power analysis, and rigorous approaches missing data.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
