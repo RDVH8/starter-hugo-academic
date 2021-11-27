@@ -13,6 +13,7 @@ tags:
   - Digital Data Collection
   - Psychometrics
   - R
+  - Pregnancy
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
