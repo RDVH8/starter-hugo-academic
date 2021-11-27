@@ -18,7 +18,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: dppng.png
+  filename: featured.png
 url_code: ""
 ---
 <!--\[if gte mso 9]><xml>
