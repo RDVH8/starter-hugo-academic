@@ -30,11 +30,11 @@ feature:
   name: Data Vizualization
 - description: 8
   icon: mobile-alt
-  icon_pack: fab
+  icon_pack: fas
   name: Digital Data Collection
 - description: 8
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: Database Management & Cleaning
 - description: 5
   icon: python
