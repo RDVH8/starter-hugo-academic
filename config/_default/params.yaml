@@ -153,6 +153,6 @@ marketing:
 cms:
   branch: master
   local_backend: false
-icon:
+icon: 
   pack:
     ai: true
