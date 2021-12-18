@@ -153,6 +153,10 @@ marketing:
 cms:
   branch: master
   local_backend: false
+<<<<<<< HEAD
 icon: 
+=======
+icon:
+>>>>>>> parent of 9d374de (Delete params.yaml)
   pack:
     ai: true
