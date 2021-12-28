@@ -32,6 +32,15 @@ experience:
     date_end: ''
     description: Provide statistical consultation for graduate students and faculty in service of various research project needs. Consultations have involved relatively simple to complex methodological approaches, including linear regression, multilevel modeling, factor analytics, and power analysis.
     
+  - title: Statistical Consultant
+    company: Calm, Inc.
+    company_url: 'https://www.calm.com/'
+    company_logo: Utah_Utes_-_U_logo
+    location: Remote
+    date_start: '2019-01-01'
+    date_end: '2019-04-01'
+    description: Served as a statistical consultant for a research project focused on analyzing user experience patterns and self-reported responses to using a meditation smartphone app. Duties included: writing and cleaning SPSS syntax, running analyses in SPSS, and providing input on future analytic approaches.
+    
   - title: Graduate Research Assistant
     company: Dept. of Psychology, University of Utah
     company_url: 'https://psych.utah.edu/'
