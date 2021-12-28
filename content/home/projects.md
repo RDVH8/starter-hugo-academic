@@ -6,7 +6,7 @@ weight: 65
 title: Projects
 subtitle: ""
 active: true
-#content:
+content:
   page_type: project
   filter_default: 0
   filter_button:
