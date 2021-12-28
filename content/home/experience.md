@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: Dept. of Psychology, University of Utah
     company_url: 'https://www.utah.edu/'
-    company_logo: org-gc
+    company_logo: Utah_Utes_-_U_logo
     location: Salt Lake City, UT
     date_start: '2017-08-01'
     date_end: ''
