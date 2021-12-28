@@ -39,7 +39,7 @@ experience:
     location: 'Remote'
     date_start: '2019-01-01'
     date_end: '2019-04-01'
-    description: .
+    description: Served as a consultant for a research project focused on examining user experiences with a meditation app. Duties included writing and cleaning SPSS syntax and data, running analyses in SPSS, and providing input for future analytic plans.
     
   - title: Graduate Research Assistant
     company: Dept. of Psychology, University of Utah
