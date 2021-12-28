@@ -39,7 +39,7 @@ experience:
     location: 'Remote'
     date_start: '2019-01-01'
     date_end: '2019-04-01'
-    description: Provide statistical consultation for graduate students and faculty in service of various research project needs. Consultations have involved relatively simple to complex methodological approaches, including linear regression, multilevel modeling, factor analytics, and power analysis.
+    description: .
     
   - title: Graduate Research Assistant
     company: Dept. of Psychology, University of Utah
