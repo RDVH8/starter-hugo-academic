@@ -24,12 +24,12 @@ date_format: Jan 2006
 experience:
   - title: Graduate Research Assistant
     company: Dept. of Psychology, University of Utah
-    company_url: 'https://www.utah.edu/'
+    company_url: 'https://psych.utah.edu/'
     company_logo: Utah_Utes_-_U_logo
     location: Salt Lake City, UT
     date_start: '2017-08-01'
     date_end: ''
-    description: 
+    description: Research assistant for NIH-funded research projects on the intergenerational transmission of emotion dysregulation. Served as the lead for the heart rate variability data cleaning team, collected semi-structured interview data from pregnant women, and most recently served as a statistical consultant for graduate student and faculty investigators for the grant.
         
   - title: Professor of Semiconductor Physics
     company: University X
