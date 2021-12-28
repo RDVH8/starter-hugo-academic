@@ -23,10 +23,10 @@ twitter: ''
 email: test@example.org
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 380 S 1530 E, Room 502
+  city: Salt Lake City
+  region: UT
+  postcode: '84107'
   country: United States
   country_code: US
 coordinates:
