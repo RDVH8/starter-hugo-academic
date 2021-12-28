@@ -36,7 +36,7 @@ experience:
     company: Calm, Inc.
     company_url: 'https://www.calm.com/'
     company_logo: Utah_Utes_-_U_logo
-    location: Remote
+    location: Salt Lake City, UT
     date_start: '2019-01-01'
     date_end: '2019-04-01'
     description: Served as a statistical consultant for a research project focused on analyzing user experience patterns and self-reported responses to using a meditation smartphone app. Duties included: writing and cleaning SPSS syntax, running analyses in SPSS, and providing input on future analytic approaches.
