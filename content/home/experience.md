@@ -35,7 +35,7 @@ experience:
   - title: Statistical Consultant
     company: Calm, Inc
     company_url: 'https://calm.com'
-    company_logo: calm_logo
+    company_logo: calm-logo
     location: 'Remote'
     date_start: '2019-01-01'
     date_end: '2019-04-01'
