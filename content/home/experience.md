@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 positions:
-  - title: Graduate Research Assistant
-    company: Dept. of Psychology, University of Utah
-    company_url: 'https://www.utah.edu/'
+  - title: CE
+    company: GenCoin
+    company_url: ''
     company_logo: org-gc
-    location: Salt Lake City, UT
-    date_start: '2017-08-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
-    description: |2- Research assistant for numerous projects in psychology.
+    description: |2-
         Responsibilities include:
         
-        * Leading data cleaning for heart rate variability data
-        * Collecting semi-structured interview data
-        * Serving as a statistical consultant for grad students and faculty on the grant
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
