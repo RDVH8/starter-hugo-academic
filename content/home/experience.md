@@ -32,8 +32,8 @@ experience:
     date_end: ''
     description: Provide statistical consultation for graduate students and faculty in service of various research project needs. Consultations have involved relatively simple to complex methodological approaches, including linear regression, multilevel modeling, factor analytics, and power analysis.
     
-  - title: Junior Statistical Consultant
-    company: Dept. of Psychology, University of Utah
+  - title: Statistical Consultant
+    company: Calm, Inc
     company_url: 'https://psych.utah.edu/'
     company_logo: Utah_Utes_-_U_logo
     location: Salt Lake City, UT
