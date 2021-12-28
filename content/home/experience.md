@@ -34,9 +34,9 @@ experience:
     
   - title: Statistical Consultant
     company: Calm, Inc
-    company_url: 'https://psych.utah.edu/'
+    company_url: 'https://calm.com'
     company_logo: Utah_Utes_-_U_logo
-    location: Salt Lake City, UT
+    location: 'Remote'
     date_start: '2021-01-01'
     date_end: ''
     description: Provide statistical consultation for graduate students and faculty in service of various research project needs. Consultations have involved relatively simple to complex methodological approaches, including linear regression, multilevel modeling, factor analytics, and power analysis.
