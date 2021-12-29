@@ -19,21 +19,19 @@ authors:
   - Sheila Crowell
 author_notes: []
 publication: Biological Psychology
-summary: Participants exhibited EDA-Prosocial concordance, suggesting that prosocial behavior may be a marker of stress. Emotion dysregulation did not moderate concordance.
+summary: Participants exhibited EDA-Prosocial concordance, suggesting that prosocial behavior may be a marker of stress. These findings provide novel information about behavioral coping to stress in pregnancy.
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Digital Phenotyping of Emotion Dysregulation Across Lifespan Transitions
-  to Better Understand Psychopathology Risk
-doi: https://doi.org/10.3389/fpsyt.2021.618442
+title: Behavioral and Physiological Stress Responses: Within-person Concordance During Pregnancy
+doi: https://doi.org/10.1016/j.biopsycho.2021.108027
 featured: true
 tags:
   - Pregnancy
   - R
 projects:
-  - Predicting Birth Outcomes
 image:
   caption: ""
   focal_point: ""
