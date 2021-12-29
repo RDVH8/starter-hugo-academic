@@ -22,13 +22,13 @@ image:
   preview_only: true
 url_code: ""
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -68,9 +68,9 @@ url_code: ""
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -649,9 +649,9 @@ url_code: ""
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -673,10 +673,12 @@ url_code: ""
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Pregnant women are at elevated risk for mental and physical health concerns, which in turn could affect fetal neurodevelopment. However, perinatal mental health research is complicated by several unique features of this lifespan transition. For instance, perinatal mental health problems have numerous complex, dynamic, and multifaceted risk factors, resulting in highly heterogeneous risk trajectories. Daily life behavior may hold a key to understanding prenatal risk. However, few efforts have been made to apply person-centered or theory-driven validation approaches to the study of day-to-day perinatal activity. Smartphone-based digital phenotyping, which refers to the gathering of daily activity to understand psychopathology-related behavior, may hold untapped potential for perinatal mental health research. This aims of this dissertation proposal are: (1) Explore prenatal relations among daily life digital measures using idiographic and nomothetic network analysis; and (2) Validate theory-derived candidate digital phenotyping indices as measures of prenatal maternal emotion dysregulation. Aim 1 will be accomplished through Group Iterative Multiple Model Estimation (GIMME), a network modeling approach that accounts for idiographic and nomothetic relations among variables. Aim 2 will be achieved through a systematic validation approach across multiple time scales, using OLS regressions and multilevel modeling. By understanding individual-level and transdiagnostic psychopathology risk in pregnancy, researchers will eventually be able to develop tailored and scalable interventions that curb risk for both mothers and infants.
+
+Data collection is ongoing and should be completed in early 2022.
 
 <!--EndFragment-->
