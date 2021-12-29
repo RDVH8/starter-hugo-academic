@@ -6,12 +6,6 @@ publication_types:
   - "2"
 authors:
   - Brendan Ostlund
-  - admin
-  - Sheila Crowell
-  - K. Lee Raby
-  - Sarah Terrell
-  - Mindy Brown
-  - Elisabeth Conradt
 author_notes: []
 publication: Development and Psychopathology
 summary:
@@ -20,7 +14,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Intergenerational Transmission of Emotion Dysregulation: Part II. Developmental Origins of Newborn Neurobehavior
+title:
 doi: https://doi.org/10.1017/S0954579419000440
 featured: true
 tags:
