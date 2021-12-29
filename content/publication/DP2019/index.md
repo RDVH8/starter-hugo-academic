@@ -35,7 +35,6 @@ authors:
   - K. Lee Raby
   - Sarah Terrell
   - Mindy Brown
-  - ...
   - Elisabeth Conradt
 author_notes: []
 publication: Development and Psychopathology
