@@ -8,6 +8,13 @@ publication_types:
   - "2"
 authors:
   - Brendan Ostlund
+  - admin
+  - Sheila Crowell
+  - K. Lee Raby
+  - Sarah Terrell
+  - Mindy Brown
+  - ...
+  - Elisabeth Conradt
 author_notes: []
 publication: Development and Psychopathology
 summary: We provide the first evidence that a woman's emotion dysregulation while pregnant is associated with risks for dysregulation in her newborn. Implications for intergenerational transmission of emotion dysregulation are discussed.
