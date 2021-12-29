@@ -25,7 +25,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: 
+title: Within-person Concordance During Pregnancy
 doi: https://doi.org/10.1016/j.biopsycho.2021.108027
 featured: true
 tags:
