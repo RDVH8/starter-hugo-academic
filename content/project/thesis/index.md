@@ -15,4 +15,4 @@ image:
   preview_only: true
 url_code: ""
 ---
-For my master's 
+For my master's, I examined the extent to which emotion dysregulation was transmitted across generations, from mother to newborn. I examined prenatal maternal respiratory sinus arrhythmia (RSA) 
