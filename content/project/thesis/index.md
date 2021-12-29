@@ -15,4 +15,6 @@ image:
   preview_only: true
 url_code: ""
 ---
-For my master's, I examined the extent to which emotion dysregulation was transmitted across generations, from mother to newborn. I examined prenatal maternal respiratory sinus arrhythmia (RSA) 
+For my master's, I examined the extent to which emotion dysregulation was transmitted across generations, from mother to newborn. I examined relations between prenatal maternal emotion dysregulation and newborn neurobehavior indirectly through prenatal maternal respiratory sinus arrhythmia (RSA) and coded stress behavior during the Trier Social Stress Test.
+
+
