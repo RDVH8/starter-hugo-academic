@@ -17,7 +17,7 @@ content:
     - name: Pregnancy
       tag: Pregnancy
     - name: Emotion Dysregulation
-      tag: Emotion Dysregulation
+      tag: Emotion dysregulation
     - name: Psychometrics
       tag: Psychometrics
 design:
