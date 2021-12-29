@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 title: Dissertation
 summary: Examining daily life markers of emotion dysregulation in pregnancy
