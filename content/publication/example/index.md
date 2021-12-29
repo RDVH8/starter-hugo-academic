@@ -1,87 +1,61 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: Ethical and consensual digital phenotyping through smartphone activity
+  (i. e., passive behavior monitoring) permits measurement of temporal risk
+  trajectories unlike ever before. This data collection modality may be
+  particularly well-suited for capturing emotion dysregulation, a
+  transdiagnostic risk factor for psychopathology, across lifespan transitions.
+  Adolescence, emerging adulthood, and perinatal transitions are particularly
+  sensitive developmental periods, often marked by increased distress. These
+  participant groups are typically assessed with laboratory-based methods that
+  can be costly and burdensome. Passive monitoring presents a relatively
+  cost-effective and unobtrusive way to gather rich and objective information
+  about emotion dysregulation and risk behaviors. We first discuss key
+  theoretically-driven concepts pertaining to emotion dysregulation and passive
+  monitoring. We then identify variables that can be measured passively and hold
+  promise for better understanding emotion dysregulation. For example, two
+  strong markers of emotion dysregulation are sleep disturbance and problematic
+  use of Internet/social media (i.e., use that prompts negative
+  emotions/outcomes). Variables related to mobility are also potentially useful
+  markers, though these variables should be tailored to fit unique features of
+  each developmental stage. Finally, we offer our perspective on candidate
+  digital variables that may prove useful for each developmental transition.
+  Smartphone-based passive monitoring is a rigorous method that can elucidate
+  psychopathology risk across human development. Nonetheless, its use requires
+  researchers to weigh unique ethical considerations, examine relevant theory,
+  and consider developmentally-specific lifespan features that may affect
+  implementation.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - admin
+author_notes: []
+publication: Frontiers in Psychiatry
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Digital Phenotyping of Emotion Dysregulation Across Lifespan Transitions
+  to Better Understand Psychopathology Risk
+doi: https://doi.org/10.3389/fpsyt.2021.618442
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags:
+  - Pregnancy
+  - R
+projects:
+  - Predicting Birth Outcomes
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2021-12-29T06:29:07.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
