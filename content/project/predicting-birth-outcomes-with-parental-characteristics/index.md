@@ -1,9 +1,9 @@
 ---
-title: Predicting Birth Outcomes
 url_video: ""
-date: 2021-11-27T20:09:29.959Z
+date: 2021-12-29T06:21:15.409Z
 external_link: ""
 url_slides: ""
+title: Predicting Birth Outcomes
 tags:
   - Pregnancy
   - R
