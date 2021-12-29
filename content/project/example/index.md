@@ -12,7 +12,6 @@ subtitle: Examining daily life markers of emotion dysregulation in pregnancy
 tags:
   - Digital Data Collection
   - Psychometrics
-  - R
   - Pregnancy
 links: []
 image:
