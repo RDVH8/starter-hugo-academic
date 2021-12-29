@@ -32,9 +32,11 @@ authors:
   - admin
 author_notes: []
 publication: Frontiers in Psychiatry
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: Smartphone-based passive monitoring is a rigorous method that can
+  elucidate psychopathology risk across human development. Nonetheless, its use
+  requires researchers to weigh unique ethical considerations, examine relevant
+  theory, and consider developmentally-specific lifespan features that may
+  affect implementation.
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -50,9 +52,9 @@ tags:
 projects:
   - Predicting Birth Outcomes
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 date: 2021-12-29T06:29:07.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
