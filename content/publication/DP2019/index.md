@@ -1,5 +1,5 @@
 ---
-abstract: abstract: Ethical and consensual digital phenotyping through smartphone activity
+abstract: Ethical and consensual digital phenotyping through smartphone activity
   (i. e., passive behavior monitoring) permits measurement of temporal risk
   trajectories unlike ever before. This data collection modality may be
   particularly well-suited for capturing emotion dysregulation, a
