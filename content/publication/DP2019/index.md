@@ -13,7 +13,11 @@ authors:
   - K. Lee Raby
   - Sarah Terrell
   - Mindy Brown
-  - ...
+  - Ruben Tinajero
+  - Nila Shakiba
+  - Catherine Monk
+  - Julie Shakib
+  - Karen Buchi
   - Elisabeth Conradt
 author_notes: []
 publication: Development and Psychopathology
