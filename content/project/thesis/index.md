@@ -4,6 +4,7 @@ date: 2021-12-29T06:21:15.409Z
 external_link: ""
 url_slides: ""
 title: Master's Thesis
+summary: For my master's, I examined the extent to which emotion dysregulation was transmitted across generations, from mother to newborn.
 tags:
   - Pregnancy
   - Emotion dysregulation
