@@ -14,10 +14,10 @@ content:
       tag: "*"
     - name: Digital Data
       tag: Digital Data Collection
-    - name: R code available
-      tag: R
     - name: Pregnancy
       tag: Pregnancy
+    - Emotion Dysregulation
+      tag: Emotion Dysregulation
     - name: Psychometrics
       tag: Psychometrics
 design:
