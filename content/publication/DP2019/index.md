@@ -14,7 +14,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Intergenerational transmission of emotion dysregulation: Part II. Developmental origins of newborn neurobehavior
+title: 
 doi: https://doi.org/10.1017/S0954579419000440
 featured: true
 tags:
