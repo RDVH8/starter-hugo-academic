@@ -12,10 +12,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Digital Data
+      tag: Digital Data Collection
+    - name: R programming used
+      tag: R
+    - name: Pregnancy
+      tag: Pregnancy
+    - name: Psychometrics
+      tag: Psychometrics
 design:
   columns: "2"
   view: 2
