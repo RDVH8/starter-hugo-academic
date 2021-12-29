@@ -16,7 +16,7 @@ content:
       tag: Digital Data Collection
     - name: Pregnancy
       tag: Pregnancy
-    - Emotion Dysregulation
+    - name: Emotion Dysregulation
       tag: Emotion Dysregulation
     - name: Psychometrics
       tag: Psychometrics
