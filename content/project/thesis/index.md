@@ -24,4 +24,5 @@ and emotion dysregulation as predictors of newborn neurobehavior (Publication No
 [Master's thesis, University of Utah]. ProQuest Dissertations Publishing.
 - Vlisides-Henry, R. D., Deboeck, P. R., Grill-Velasquez, W., Mackey, S., Ramadurai, D. K. A., Urry, J.
 O., Neff, D., Terrell, S., Gao, M., Thomas, L., Conradt, E., & Crowell, S. E. (2021). Behavioral and
-physiological stress responses: Within-person concordance during pregnancy.
+physiological stress responses: Within-person concordance during pregnancy. Biological Psychology,
+159, 108027. https://doi.org/10.1016/j.biopsycho.2021.108027
