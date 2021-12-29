@@ -32,10 +32,7 @@ authors:
   - Sheila Crowell
 author_notes: []
 publication: Biological Psychology
-summary: Participants exhibited EDA-Prosocial concordance, suggesting that
-prosocial behavior may be a marker of stress. Given the importance of observed behavior in the maintenance and treatment of
-psychopathology, these findings may provide a launchpad for future perinatal intervention
-research.
+summary: Participants exhibited EDA-Prosocial concordance, suggesting that prosocial behavior may be a marker of stress. Given the importance of observed behavior in the maintenance and treatment of psychopathology, these findings may provide a launchpad for future perinatal intervention research.
 url_dataset: ""
 url_project: ""
 publication_short: ""
