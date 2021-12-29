@@ -8,8 +8,10 @@ authors:
   - Brendan Ostlund
   - admin
   - Sheila Crowell
-  - 
-  - Parisa Kaliush
+  - K. Lee Raby
+  - Sarah Terrell
+  - Mindy Brown
+  - ...
   - Elisabeth Conradt
 author_notes: []
 publication: Development and Psychopathology
