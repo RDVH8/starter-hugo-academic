@@ -1,18 +1,5 @@
 ---
-abstract: During pregnancy, a woman’s emotions can have longstanding implications for both her own
-and her child’s health. Within-person emotional concordance refers to the simultaneous
-measurement of emotional responses across multiple levels of analysis. This method may
-provide insight into how pregnant women experience emotions in response to stress. We enrolled
-162 pregnant women and assessed concordance through autonomic physiology (electrodermal
-activity [EDA], respiratory sinus arrhythmia [RSA]), and coded behavior (Prosocial, Flight,
-Displacement) during the Trier Social Stress Test–Speech. We used multilevel models to
-examine behavioral-physiological concordance and whether self-reported emotion dysregulation
-moderated these effects. Participants exhibited EDA-Prosocial concordance, suggesting that
-prosocial behavior may be a marker of stress. Emotion dysregulation did not moderate
-concordance. These findings provide novel information about behavioral coping to stress in
-pregnancy. Given the importance of observed behavior in the maintenance and treatment of
-psychopathology, these findings may provide a launchpad for future perinatal intervention
-research.
+abstract: During pregnancy, a woman’s emotions can have longstanding implications for both her own and her child’s health. Within-person emotional concordance refers to the simultaneous measurement of emotional responses across multiple levels of analysis. This method may provide insight into how pregnant women experience emotions in response to stress. We enrolled 162 pregnant women and assessed concordance through autonomic physiology (electrodermal activity [EDA], respiratory sinus arrhythmia [RSA]), and coded behavior (Prosocial, Flight, Displacement) during the Trier Social Stress Test–Speech. We used multilevel models to examine behavioral-physiological concordance and whether self-reported emotion dysregulation moderated these effects. Participants exhibited EDA-Prosocial concordance, suggesting that prosocial behavior may be a marker of stress. Emotion dysregulation did not moderate concordance. These findings provide novel information about behavioral coping to stress in pregnancy. Given the importance of observed behavior in the maintenance and treatment of psychopathology, these findings may provide a launchpad for future perinatal intervention research.
 slides: ""
 url_pdf: ""
 publication_types:
