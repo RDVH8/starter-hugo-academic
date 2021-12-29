@@ -30,6 +30,11 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Mengyu Gao
+  - Leah Thomas
+  - Parisa Kaliush
+  - Elisabeth Conradt
+  - Sheila Crowell
 author_notes: []
 publication: Frontiers in Psychiatry
 summary: Smartphone-based passive monitoring is a rigorous method that can
