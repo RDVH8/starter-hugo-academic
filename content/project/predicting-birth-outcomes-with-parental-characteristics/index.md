@@ -3,7 +3,7 @@ url_video: ""
 date: 2021-12-29T06:21:15.409Z
 external_link: ""
 url_slides: ""
-title: Understanding Prenatal Maternal and Newborb Risk
+title: Prenatal Maternal and Infant Risk Patterns
 tags:
   - Pregnancy
   - R
