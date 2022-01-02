@@ -6,7 +6,7 @@ url_slides: ""
 title: Prenatal Maternal and Infant Risk Patterns
 tags:
   - Pregnancy
-  - R
+  - Emotion dysregulation
 links: []
 image:
   caption: ""
