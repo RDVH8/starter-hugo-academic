@@ -57,7 +57,7 @@ experience:
     location: Salt Lake City, UT
     date_start: '2017-08-01'
     date_end: ''
-    description: Teaching Assistant for undergraduate courses, including Introduction to Psychology and Research Methods. Also served as a Teaching Assistant for a graduate-level courses on psychological assessment, whereby I coached grad students through the WAIS-IV. Also served as a Graduate Instructor for the undergraduate course, Psychology as a Science & Profession.
+    description: Teaching Assistant for undergraduate courses, including Introduction to Psychology and Research Methods, as well as a graduate-level course on psychological assessment, whereby I coached grad students through the WAIS-IV. I also served as a Graduate Instructor for the undergraduate courses, Psychology as a Science & Profession and Research Methods.
 
 
 design:
