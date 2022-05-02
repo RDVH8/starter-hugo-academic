@@ -12,21 +12,20 @@ social:
     icon: envelope
     icon_pack: fas
     link: mailto:rdhenry8@gmail.com
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/RDVH_
+    link: https://www.linkedin.com/in/robert-vlisides-henry-084018224/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=AA3-1GMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/RDVH8
-  - icon: linkedin
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/robert-vlisides-henry-084018224/
+    link: https://twitter.com/RDVH_
 organizations:
   - name: University of Utah
-    url: https://psych.utah.edu/people/graduate-students/henry-robert-vlisides.php
 education:
   courses:
     - course: Ph.D., Psychology
@@ -38,7 +37,7 @@ education:
     - course: B.A., Biology & Psychology (Neuroscience Minor)
       institution: Hope College
       year: 2017
-email: rdhenry8@gmail.com
+email: robert.vlisideshenry@gmail.com
 superuser: true
 highlight_name: true
 ---
