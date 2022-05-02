@@ -42,8 +42,6 @@ email: rdhenry8@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Psychology PhD student (Doctoral Candidate) working with Dr. Sheila Crowell and Dr. Elisabeth Conradt at the University of Utah. I am planning to defend my dissertation in 2022.
-
-My research focuses on the lifespan impact of emotion dysregulation on risk for psychopathology. As a methodologist, I am especially interested in the use of innovative and rigorous approaches to measuring emotion dysregulation and stress across lifespan transitions. The perinatal period has been my primary focus during graduate school.
+I am a Psychology PhD student (Doctoral Candidate) planning to defend my dissertation in May 2022. I am seeking industry jobs focused on behavioral data science. My research focuses on the lifespan impact of emotion dysregulation on risk for psychopathology. As a methodologist, I am especially interested in the use of innovative and rigorous approaches to measuring emotion dysregulation and stress across lifespan transitions. The perinatal period has been my primary focus during graduate school.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
