@@ -29,7 +29,7 @@ experience:
     company_logo: Utah_Utes_-_U_logo
     location: Salt Lake City, UT
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-05-10'
     description: Provide statistical consultation for graduate students and faculty in service of various research project needs. Consultations have involved relatively simple to complex methodological approaches, including linear regression, multilevel modeling, factor analytics, and power analysis.
     
   - title: Statistical Consultant
