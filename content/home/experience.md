@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  
+  - title: Baseball Data Analyst
+    company: Ogden Raptors Professional Baseball
+    company_url: 'https://psych.utah.edu/'
+    company_logo: 
+    location: Ogden, UT
+    date_start: '2021-05-25'
+    date_end: '2022-09-15'
+    description: Part-time data analyst for a minor league baseball team (the Ogden Raptors) for the 2022 season. Responsibilities primarily included analyzing and manipulating Trackman data, presenting results in plots and reports via R (ggplot2, markdown, shiny), developing statistical models to predict future performance, and collaborating with team manager, coaches, and analytics teams to determine the most important and useful statistical approaches.
     
   - title: Junior Statistical Consultant
     company: Dept. of Psychology, University of Utah
@@ -29,8 +38,8 @@ experience:
     company_logo: Utah_Utes_-_U_logo
     location: Salt Lake City, UT
     date_start: '2021-01-01'
-    date_end: '2022-05-10'
-    description: Provide statistical consultation for graduate students and faculty in service of various research project needs. Consultations have involved relatively simple to complex methodological approaches, including linear regression, multilevel modeling, factor analytics, and power analysis.
+    date_end: '2022-05-13'
+    description: Provided statistical consultation for graduate students and faculty in service of various research project needs. Consultations involved relatively simple to complex methodological approaches, including linear regression, multilevel modeling, factor analytics, and power analysis.
     
   - title: Statistical Consultant
     company: Calm, Inc
