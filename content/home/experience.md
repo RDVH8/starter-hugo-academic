@@ -29,7 +29,7 @@ experience:
     company_logo: OGD
     location: Ogden, UT
     date_start: '2021-05-25'
-    date_end: '2022-09-15'
+    date_end: ''
     description: Part-time data analyst for a minor league baseball team (the Ogden Raptors) for the 2022 season. Responsibilities primarily included analyzing and manipulating Trackman data, presenting results in plots and reports via R (ggplot2, markdown, shiny), developing statistical models to predict future performance, and collaborating with team manager, coaches, and analytics teams to determine the most important and useful statistical approaches.
     
   - title: Junior Statistical Consultant
