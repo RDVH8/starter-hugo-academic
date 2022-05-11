@@ -30,7 +30,7 @@ education:
   courses:
     - course: Ph.D., Psychology
       institution: University of Utah
-      year: 2022
+      year: 2022 (expected)
     - course: M.S., Psychology
       institution: University of Utah
       year: 2019
