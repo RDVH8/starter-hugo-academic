@@ -26,7 +26,7 @@ experience:
   - title: Baseball Data Analyst
     company: Ogden Raptors Professional Baseball
     company_url: 'https://ogden-raptors.com/landing/index'
-    company_logo: 
+    company_logo: OGD
     location: Ogden, UT
     date_start: '2021-05-25'
     date_end: '2022-09-15'
