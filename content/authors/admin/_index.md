@@ -11,7 +11,7 @@ social:
       header: false
     icon: envelope
     icon_pack: fas
-    link: mailto:rdhenry8@gmail.com
+    link: mailto:robert.vlisideshenry@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/robert-vlisides-henry-084018224/
