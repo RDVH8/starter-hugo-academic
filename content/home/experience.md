@@ -30,7 +30,7 @@ experience:
     location: Remote
     date_start: '2022-07-01'
     date_end: '2023-03-01'
-    description: Twill is a digital therapeutics company, leading the way to more scalable and accessible options for symptom management and treatment. As the Quantitative Research Associate, I spearheaded statistical analyses for internal and external distribution. Analyses were conducted in R and included: regression; multilevel modeling; growth modeling; structural equation modeling; dose-response curves; exploratory data visualization. I owned the quantitative direction of Twill's Research Strategy Team and was partly responsibile for ensuring that our team hit 100% of our 2022 OKRs.
+    description: I spearheaded statistical analyses for internal and external distribution. Analyses were conducted in R and included: regression; multilevel modeling; growth modeling; structural equation modeling; dose-response curves; exploratory data visualization. I owned the quantitative direction of Twill's Research Strategy Team and was partly responsibile for ensuring that our team hit 100% of our 2022 OKRs.
     
   - title: Baseball Data Analyst
     company: Ogden Raptors Professional Baseball
