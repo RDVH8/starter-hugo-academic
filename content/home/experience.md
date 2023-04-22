@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   
+  - title: Quantitative Research Associate
+    company: Twill
+    company_url: 'https://www.twill.health/'
+    company_logo: 
+    location: Remote
+    date_start: '2022-07-01'
+    date_end: '2023-03-01'
+    description: Twill is a digital therapeutics company, leading the way to more scalable and accessible options for symptom management and treatment. As the Labs Team Quantitative Research Associate, I spearheaded statistical analyses for internal and external distribution. Analyses were conducted in R and included: regression; multilevel modeling; growth modeling; structural equation modeling; dose-response curves; exploratory data visualization. I owned the quantitative direction of Twill's Research Strategy Team and was partly responsibile for ensuring that our team hit 100% of our 2022 OKRs.
+    
   - title: Baseball Data Analyst
     company: Ogden Raptors Professional Baseball
     company_url: 'https://ogden-raptors.com/landing/index'
     company_logo: OGD
     location: Ogden, UT
     date_start: '2022-05-25'
-    date_end: ''
+    date_end: '2022-09-25'
     description: Part-time data analyst for a minor league baseball team (the Ogden Raptors) for the 2022 season. Responsibilities primarily included analyzing and manipulating Trackman data, presenting results in plots and reports via R (ggplot2, markdown, shiny), developing statistical models to predict future performance, and collaborating with team manager, coaches, and analytics teams to determine the most important and useful statistical approaches.
     
   - title: Junior Statistical Consultant
@@ -56,8 +65,8 @@ experience:
     company_logo: Utah_Utes_-_U_logo
     location: Salt Lake City, UT
     date_start: '2017-08-01'
-    date_end: ''
-    description: Work on NIH-funded projects on the intergenerational transmission of emotion dysregulation. Served as the lead for the heart rate variability data cleaning team, collected semi-structured interview data from pregnant women, and most recently served as a statistical consultant for graduate student and faculty investigators for the grant.
+    date_end: '2022-08-01'
+    description: Worked on NIH-funded projects on the intergenerational transmission of emotion dysregulation. Served as the lead for the heart rate variability data cleaning team, collected semi-structured interview data from pregnant women, and most recently served as a statistical consultant for graduate student and faculty investigators for our grant specifically.
     
   - title: Graduate Teaching Assistant and Instructor
     company: Dept. of Psychology, University of Utah
@@ -65,7 +74,7 @@ experience:
     company_logo: Utah_Utes_-_U_logo
     location: Salt Lake City, UT
     date_start: '2017-08-01'
-    date_end: ''
+    date_end: '2022-08-01'
     description: Teaching Assistant for undergraduate courses, including Introduction to Psychology and Research Methods, as well as a graduate-level course on psychological assessment, whereby I coached grad students through the WAIS-IV. I also served as a Graduate Instructor for the undergraduate courses, Psychology as a Science & Profession and Research Methods.
 
 
